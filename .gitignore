@@ -2,3 +2,4 @@ __pycache__/
 mnist.pkl
 *.gz
 params.pkl
+deep_convnet_params.pkl
